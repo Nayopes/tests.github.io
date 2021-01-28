@@ -22,7 +22,7 @@ for (i=0; i<nkar.length; i++){
     div.style.position = 'relative'
     div.style.marginLeft = '50px'  
    //images 
-    img.src = `${nkar[i]}`
+    img.src = "`${nkar[i]}`"
     img.style.border = '1px solid #a3a3a3'
     img.style.width = '200px'
     img.style.height = '250px'
